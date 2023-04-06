@@ -1,0 +1,5 @@
+name: authLib
+main: com.br.guilhermematthew.nowly.login.LoginMain
+authors: [Guilherme Matthew, theo]
+version: 0.0.1
+softdepend: [BukkitCommons]

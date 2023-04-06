@@ -1,0 +1,6 @@
+LavaChallenge:
+  MinHit:
+    Facil: 20
+    Medio: 30
+    Dificil: 50
+    Extremo: 80

@@ -1,0 +1,5 @@
+name: HG
+main: com.br.guilhermematthew.nowly.hardcoregames.HardcoreGamesMain
+authors: [Guilherme Matthew, theo]
+version: 0.0.1
+softdepend: [BukkitCommons]

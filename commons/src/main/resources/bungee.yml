@@ -1,0 +1,4 @@
+name: Commons
+main: com.br.guilhermematthew.nowly.commons.bungee.BungeeMain
+authors: [Guilherme Matthew, theo]
+version: 0.0.1

@@ -1,0 +1,4 @@
+name: BukkitCommons
+main: com.br.guilhermematthew.nowly.commons.bukkit.BukkitMain
+authors: [Guilherme Matthew, theo]
+version: 0.0.1

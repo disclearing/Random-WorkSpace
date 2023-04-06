@@ -1,0 +1,5 @@
+name: PvP
+main: com.br.guilhermematthew.nowly.pvp.PvPMain
+authors: [Guilherme Matthew, theo]
+version: 0.0.1
+softdepend: [BukkitCommons]

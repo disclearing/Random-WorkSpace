@@ -1,0 +1,6 @@
+name: NowlyLobby
+main: com.br.guilhermematthew.nowly.lobby.LobbyMain
+authors: [Guilherme Matthew, theo]
+version: 0.0.1
+softdepend: [BukkitCommons]
+depend: [BukkitCommons]
